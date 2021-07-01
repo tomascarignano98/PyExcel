@@ -1,3 +1,3 @@
 # PyExcel
 
-Working with Excel files. Using the openpyxl package
+Working with Excel files. Using the openpyxl package.
